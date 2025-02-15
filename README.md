@@ -118,7 +118,6 @@ jupyter notebook
 ### Contribuições
 Contribuições são bem-vindas! Se você deseja melhorar ou adicionar algo ao projeto, por favor, envie um pull request.
 
-Copiar código
 
 
 
